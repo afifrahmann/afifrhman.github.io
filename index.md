@@ -8,7 +8,7 @@ Using Excel to analyze bicycle sales data from a dataset. First, clean up and st
 
 <img src="images\AnalyzingBikeSaleData.png?raw=true" />
 
-[![](images\Excel.png)]((https://silicon-garden-1fa.notion.site/Analyzing-Bike-Sale-Data-96ef32162cc543b5a2ef87c71f87e797))
+[![](images\Excel.png)](https://silicon-garden-1fa.notion.site/Analyzing-Bike-Sale-Data-96ef32162cc543b5a2ef87c71f87e797)
 
 [View more on Notion](https://silicon-garden-1fa.notion.site/Analyzing-Bike-Sale-Data-96ef32162cc543b5a2ef87c71f87e797)
 
